@@ -1,0 +1,8 @@
+numpy>=2.0
+Pillow>=10.0
+opencv-python-headless>=4.10
+torch>=2.5
+torchvision>=0.20
+tqdm>=4.66
+segment-anything
+streamlit>=1.41

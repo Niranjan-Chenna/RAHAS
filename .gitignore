@@ -1,0 +1,46 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Private research materials and generated outputs
+data/
+datasets/
+results/
+archive/
+paper/
+tmp/
+pipeline/checkpoints/
+pipeline/experiments/
+pipeline/docs/
+
+# Trained weights, serialized arrays, and model artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Dataset-derived media and document artifacts
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
+*.pdf
+*.xlsx
+*.xls
+*.zip
+*.tar
