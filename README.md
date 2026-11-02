@@ -10,7 +10,7 @@ RAHAS is a research codebase for a unified Brahmi estampage workflow covering:
 
 This public repository intentionally contains **code only**.
 
-The dataset, trained model weights, checkpoints, experimental outputs, evaluation artifacts, paper figures and tables, manuscript files, and the complete supporting evidence package are not included because the research paper is still being drafted and prepared for journal submission. These materials remain private during paper preparation and review. Any later release will depend on the publication stage and the permissions governing the underlying heritage data.
+The dataset, trained model weights, checkpoints, experimental outputs, evaluation artifacts, paper figures and tables, manuscript files, and the complete supporting evidence package are not included because the associated manuscript has been submitted to IEEE Access and is currently under peer review. These materials remain private during the review process. Any later release will depend on the publication stage and the permissions governing the underlying heritage data.
 
 Consequently, this repository is intended for inspection of the implementation and cannot reproduce the reported research pipeline end to end without the separately maintained data, weights, configurations, and evidence artifacts.
 
